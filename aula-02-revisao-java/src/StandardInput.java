@@ -8,7 +8,7 @@ public class StandardInput {
         long b = scanner.nextLong();
         float c = scanner.nextFloat();
         double d = scanner.nextDouble();
-        boolean e = scanner.nextBoolean();
+        boolean b1 = scanner.nextBoolean();
 
         String s = scanner.next();
 
@@ -16,7 +16,9 @@ public class StandardInput {
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);
-        System.out.println(e);
+        System.out.println(b1);
         System.out.println(s);
+
+        scanner.close();
     }
 }

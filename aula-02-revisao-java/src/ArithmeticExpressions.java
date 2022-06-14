@@ -4,15 +4,21 @@ public class ArithmeticExpressions {
         System.out.println(5 - 3);
         System.out.println(5 * 3);
         System.out.println(5 / 3);
-        System.out.println(5 / 3);
+        System.out.println(5 / 3.0);
         System.out.println(5 % 3);
+        System.out.println();
+
+        System.out.println(5L + 3);
+        System.out.println(5L - 3);
+        System.out.println(5L * 3);
+        System.out.println(5L / 3);
+        System.out.println(5L % 3);
         System.out.println();
 
         // type promotion
         System.out.println(5.0 + 3);
         System.out.println(5.0 - 3);
         System.out.println(5.0 * 3);
-        System.out.println(5.0 / 3);
         System.out.println(5.0 / 3);
         System.out.println(5.0 % 3);
         System.out.println();
