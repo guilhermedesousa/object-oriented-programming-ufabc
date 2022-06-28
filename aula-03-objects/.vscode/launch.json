@@ -1,0 +1,51 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch HelloString",
+            "request": "launch",
+            "mainClass": "HelloString",
+            "projectName": "aula-03-objects_ca741f7f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": "1234"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "aula03-objects_8fccebea"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloString",
+            "request": "launch",
+            "mainClass": "HelloString",
+            "projectName": "aula03-objects_8fccebea"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeChecker",
+            "request": "launch",
+            "mainClass": "PalindromeChecker",
+            "projectName": "aula03-objects_8fccebea",
+            "args": "123321"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticVsInstanceMethods",
+            "request": "launch",
+            "mainClass": "StaticVsInstanceMethods",
+            "projectName": "aula03-objects_8fccebea"
+        }
+    ]
+}
