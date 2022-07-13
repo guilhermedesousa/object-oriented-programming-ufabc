@@ -1,0 +1,16 @@
+CPF              Name                      Amount    
+296.385.899-88   Mrs. Gail Bergnaum        $320.96    
+135.225.038-86   Perry Gleichner           $1127.23   
+054.026.541-96   Pura Stracke              $677.33    
+873.837.766-97   Damon Crist               $1268.47   
+714.594.477-70   Buster Bernier            $360.29    
+618.234.388-96   Reed Bosco                $1449.92   
+256.819.851-36   Dr. Edythe Botsford       $234.69    
+689.495.313-54   Lloyd Bode                $1173.84   
+498.172.570-18   Verna Heller Sr.          $187.47    
+223.344.321-48   Rudy Krajcik II           $549.90    
+292.040.625-94   Alphonse Sporer           $689.96    
+446.349.591-58   Mrs. Long Koss            $661.65    
+690.789.982-17   Pablo Hilpert             $258.85    
+261.370.330-78   Rosa Kozey                $330.37    
+473.215.572-37   Alec Labadie              $318.42    

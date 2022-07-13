@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3">
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula06-classes-ii-exercises-guilhermedesousa/src/main/java/App.java">
+<error line="1" column="1" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula06-classes-ii-exercises-guilhermedesousa/src/main/java/HugePositiveInteger.java">
+<error line="3" column="1" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocTypeCheck"/>
+<error line="69" severity="warning" message="First sentence of Javadoc is missing an ending period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="174" column="8" severity="warning" message="Unused @param tag for &apos;value&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+</checkstyle>

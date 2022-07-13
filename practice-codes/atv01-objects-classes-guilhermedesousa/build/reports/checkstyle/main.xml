@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv01-objects-classes-guilhermedesousa/src/main/java/App.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv01-objects-classes-guilhermedesousa/src/main/java/Matrix.java">
+<error line="61" severity="warning" message="Line is longer than 100 characters (found 101)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="65" severity="warning" message="Line is longer than 100 characters (found 103)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv01-objects-classes-guilhermedesousa/src/main/java/Rational.java">
+<error line="1" severity="warning" message="First sentence of Javadoc is missing an ending period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck"/>
+<error line="155" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="177" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="199" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+<error line="219" column="5" severity="warning" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.MissingJavadocMethodCheck"/>
+</file>
+</checkstyle>

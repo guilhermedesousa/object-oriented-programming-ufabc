@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DateTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-06-30T02:18:38" hostname="fedora" time="0.118">
+  <properties/>
+  <testcase name="testSuccessOnConstructor()" classname="DateTest" time="0.062"/>
+  <testcase name="testFailureOnConstructor()" classname="DateTest" time="0.004"/>
+  <testcase name="testIsBefore()" classname="DateTest" time="0.025"/>
+  <testcase name="testNonLeapYearSuccess()" classname="DateTest" time="0.004"/>
+  <testcase name="testLeapYearSuccess()" classname="DateTest" time="0.002"/>
+  <testcase name="testIsAfter()" classname="DateTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

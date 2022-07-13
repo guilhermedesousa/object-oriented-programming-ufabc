@@ -1,0 +1,4 @@
+Code           Name                                               Amount    
+11876960       FRANKLIN FOUNDATION HOSPITAL                       $5036.04   
+32997330       BALTIMORE VA MEDICAL CENTER                        $1758.52   
+79035521       VIA CHRISTI HOSPITALS WICHITA INC                  $2814.79   

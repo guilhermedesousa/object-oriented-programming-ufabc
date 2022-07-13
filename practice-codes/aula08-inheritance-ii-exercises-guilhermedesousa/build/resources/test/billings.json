@@ -1,0 +1,2601 @@
+[ {
+  "doctor" : {
+    "fullName" : "Alec Labadie",
+    "cpf" : "473.215.572-37",
+    "address" : "8904 Lucas Prairie, North Lorena, TN 89722-0619",
+    "mobilePhone" : "(01)85944-7217",
+    "email" : "jacqulyn.cronin@hotmail.com",
+    "specialty" : "Preventive medicine",
+    "officeVisitFee" : 104.4
+  },
+  "patient" : {
+    "fullName" : "Mrs. Bruce Dooley",
+    "cpf" : "409.933.818-98",
+    "address" : "7737 Quinn Wells, Mackville, ID 35682",
+    "mobilePhone" : "(00)40948-3246",
+    "email" : "mariano.beier@gmail.com",
+    "patientId" : "564514672755837",
+    "dateOfBirth" : 472151654383
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 52.2
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Anh Sporer",
+    "cpf" : "952.280.279-43",
+    "address" : "42822 Carol Drive, Sooview, TX 81729-7536",
+    "mobilePhone" : "(89)80670-8045",
+    "email" : "cindie.dickens@gmail.com",
+    "patientId" : "361307055045572",
+    "dateOfBirth" : 895729280658
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 102.47
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Buck Mills",
+    "cpf" : "045.795.855-27",
+    "address" : "53162 Breitenberg Forest, Kleintown, AR 32250-7916",
+    "mobilePhone" : "(23)82659-4590",
+    "email" : "austin.lang@gmail.com",
+    "patientId" : "925621985076695",
+    "dateOfBirth" : 264335826388
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 110.05
+}, {
+  "doctor" : {
+    "fullName" : "Pura Stracke",
+    "cpf" : "054.026.541-96",
+    "address" : "Apt. 240 116 Babara Mountain, Lake Bret, NV 23279-6814",
+    "mobilePhone" : "(11)16235-2261",
+    "email" : "rochelle.feeney@yahoo.com",
+    "specialty" : "Allergy and immunology",
+    "officeVisitFee" : 202.19
+  },
+  "patient" : {
+    "fullName" : "Karmen Langosh",
+    "cpf" : "713.760.560-94",
+    "address" : "2866 Danny Roads, East Shondraside, VT 86445",
+    "mobilePhone" : "(80)33873-9044",
+    "email" : "cheryl.kuhn@yahoo.com",
+    "patientId" : "168486722457655",
+    "dateOfBirth" : -40991543764
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 40.44
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Jayne Wilderman II",
+    "cpf" : "881.472.841-12",
+    "address" : "Suite 029 4116 Ezekiel Branch, Reathafort, UT 07250",
+    "mobilePhone" : "(20)53514-4263",
+    "email" : "abdul.watsica@hotmail.com",
+    "patientId" : "895103045578204",
+    "dateOfBirth" : 474899939518
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 9.97
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Avery Fritsch",
+    "cpf" : "384.341.986-36",
+    "address" : "Apt. 791 9919 Milo Canyon, East Marshallberg, VA 23597",
+    "mobilePhone" : "(85)36961-6286",
+    "email" : "caroll.brown@yahoo.com",
+    "patientId" : "381136664277772",
+    "dateOfBirth" : 346918038646
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 47.84
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Grover Hansen",
+    "cpf" : "564.571.695-39",
+    "address" : "777 Walker Station, Lake Harlandstad, CO 20042",
+    "mobilePhone" : "(23)22031-1212",
+    "email" : "merrill.rogahn@yahoo.com",
+    "patientId" : "338526387388053",
+    "dateOfBirth" : -232330288790
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 47.84
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Georgetta Batz DDS",
+    "cpf" : "454.720.074-93",
+    "address" : "88222 Terri Villages, Benitoshire, NE 06666-9621",
+    "mobilePhone" : "(65)35128-8829",
+    "email" : "marian.thompson@hotmail.com",
+    "patientId" : "066575132735227",
+    "dateOfBirth" : 630101405104
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 204.95
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Michel Stracke",
+    "cpf" : "915.624.534-09",
+    "address" : "74749 Gorczany Shore, Sharaland, WY 28484-2133",
+    "mobilePhone" : "(85)46892-1238",
+    "email" : "bobbye.harvey@gmail.com",
+    "patientId" : "674030416813015",
+    "dateOfBirth" : 106144996010
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 110.05
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Anh Sporer",
+    "cpf" : "952.280.279-43",
+    "address" : "42822 Carol Drive, Sooview, TX 81729-7536",
+    "mobilePhone" : "(89)80670-8045",
+    "email" : "cindie.dickens@gmail.com",
+    "patientId" : "361307055045572",
+    "dateOfBirth" : 895729280658
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 178.03
+}, {
+  "doctor" : {
+    "fullName" : "Alphonse Sporer",
+    "cpf" : "292.040.625-94",
+    "address" : "62931 McGlynn Ridges, Goldnerburgh, MT 38603",
+    "mobilePhone" : "(19)30741-9187",
+    "email" : "lou.howell@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 202.93
+  },
+  "patient" : {
+    "fullName" : "Ms. Rosia Kreiger",
+    "cpf" : "433.159.229-52",
+    "address" : "543 Erick Ridge, Breannatown, NJ 31286",
+    "mobilePhone" : "(93)07074-1480",
+    "email" : "christene.mccullough@yahoo.com",
+    "patientId" : "547189689203141",
+    "dateOfBirth" : -68989391651
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 81.17
+}, {
+  "doctor" : {
+    "fullName" : "Rudy Krajcik II",
+    "cpf" : "223.344.321-48",
+    "address" : "Suite 131 21930 Feest Streets, Kennethshire, SD 23373",
+    "mobilePhone" : "(24)30004-4216",
+    "email" : "raul.johnston@gmail.com",
+    "specialty" : "Pediatrics",
+    "officeVisitFee" : 171.84
+  },
+  "patient" : {
+    "fullName" : "Drew Morar Jr.",
+    "cpf" : "808.585.773-97",
+    "address" : "0960 Trent Harbors, East Micheal, KY 95226",
+    "mobilePhone" : "(74)35510-0548",
+    "email" : "tish.streich@gmail.com",
+    "patientId" : "794107717380098",
+    "dateOfBirth" : 286177209765
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 68.74
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Annetta Padberg",
+    "cpf" : "670.898.105-42",
+    "address" : "Suite 296 9286 Kent Crest, Ruebenfurt, OH 04971",
+    "mobilePhone" : "(73)81539-9464",
+    "email" : "elisabeth.reinger@gmail.com",
+    "patientId" : "215771351641271",
+    "dateOfBirth" : 760250127402
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 47.15
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Houston Mayert",
+    "cpf" : "561.336.634-51",
+    "address" : "Suite 264 216 Morar Wall, West Hui, SD 56411",
+    "mobilePhone" : "(87)46144-2212",
+    "email" : "lon.casper@yahoo.com",
+    "patientId" : "851982064405213",
+    "dateOfBirth" : -10206844917
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 111.27
+}, {
+  "doctor" : {
+    "fullName" : "Pablo Hilpert",
+    "cpf" : "690.789.982-17",
+    "address" : "Apt. 360 5320 Benito Street, South John, KY 20162",
+    "mobilePhone" : "(40)14218-2368",
+    "email" : "houston.emard@yahoo.com",
+    "specialty" : "Allergy and immunology",
+    "officeVisitFee" : 112.54
+  },
+  "patient" : {
+    "fullName" : "Grover Hansen",
+    "cpf" : "564.571.695-39",
+    "address" : "777 Walker Station, Lake Harlandstad, CO 20042",
+    "mobilePhone" : "(23)22031-1212",
+    "email" : "merrill.rogahn@yahoo.com",
+    "patientId" : "338526387388053",
+    "dateOfBirth" : -232330288790
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 56.27
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Natalya Price DDS",
+    "cpf" : "703.075.132-04",
+    "address" : "Apt. 450 0075 Kristian Ports, North Micki, MI 56109-9975",
+    "mobilePhone" : "(08)29651-1104",
+    "email" : "camie.bruen@hotmail.com",
+    "patientId" : "572453332080674",
+    "dateOfBirth" : 660563846949
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 117.88
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Earline Morar",
+    "cpf" : "558.987.439-34",
+    "address" : "Suite 212 4767 Jayson Stream, New Norbert, NM 19176",
+    "mobilePhone" : "(48)01547-2386",
+    "email" : "emery.ruecker@hotmail.com",
+    "patientId" : "292194205342189",
+    "dateOfBirth" : 971139140000
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 71.77
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Bob Jaskolski",
+    "cpf" : "344.812.046-85",
+    "address" : "617 Wolff Expressway, Port Irvinland, HI 92745-0242",
+    "mobilePhone" : "(60)46183-2191",
+    "email" : "mary.keebler@yahoo.com",
+    "patientId" : "758396027767401",
+    "dateOfBirth" : 953987113618
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 42.7
+}, {
+  "doctor" : {
+    "fullName" : "Verna Heller Sr.",
+    "cpf" : "498.172.570-18",
+    "address" : "Suite 013 45026 Tyrone Cliff, Breitenbergburgh, GA 16903",
+    "mobilePhone" : "(45)30966-9705",
+    "email" : "krystyna.olson@hotmail.com",
+    "specialty" : "Medical genetics",
+    "officeVisitFee" : 46.87
+  },
+  "patient" : {
+    "fullName" : "Billi Harvey",
+    "cpf" : "246.350.981-22",
+    "address" : "470 Sipes Green, Jefferyland, PA 20646-6288",
+    "mobilePhone" : "(50)18879-8197",
+    "email" : "helene.runolfsson@gmail.com",
+    "patientId" : "974144088773256",
+    "dateOfBirth" : 759853459384
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 18.75
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Ms. Aileen Shanahan",
+    "cpf" : "847.591.297-50",
+    "address" : "217 Brekke Center, Smithamtown, WY 07403-2083",
+    "mobilePhone" : "(00)48274-5514",
+    "email" : "jimmie.paucek@yahoo.com",
+    "patientId" : "110252925220863",
+    "dateOfBirth" : -117922028976
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 73.36
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Isiah Crona",
+    "cpf" : "353.229.429-30",
+    "address" : "4467 Eldon Points, Wymanfort, TX 73939-4020",
+    "mobilePhone" : "(89)10638-0910",
+    "email" : "sidney.hagenes@hotmail.com",
+    "patientId" : "222409291704030",
+    "dateOfBirth" : 230813708369
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 19.94
+}, {
+  "doctor" : {
+    "fullName" : "Verna Heller Sr.",
+    "cpf" : "498.172.570-18",
+    "address" : "Suite 013 45026 Tyrone Cliff, Breitenbergburgh, GA 16903",
+    "mobilePhone" : "(45)30966-9705",
+    "email" : "krystyna.olson@hotmail.com",
+    "specialty" : "Medical genetics",
+    "officeVisitFee" : 46.87
+  },
+  "patient" : {
+    "fullName" : "Houston Mayert",
+    "cpf" : "561.336.634-51",
+    "address" : "Suite 264 216 Morar Wall, West Hui, SD 56411",
+    "mobilePhone" : "(87)46144-2212",
+    "email" : "lon.casper@yahoo.com",
+    "patientId" : "851982064405213",
+    "dateOfBirth" : -10206844917
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 56.24
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Kallie Bauch",
+    "cpf" : "350.401.268-21",
+    "address" : "Suite 218 2540 Stan Groves, North Brittaneymouth, TX 68148-7199",
+    "mobilePhone" : "(06)26440-8928",
+    "email" : "therese.howe@gmail.com",
+    "patientId" : "906976837751560",
+    "dateOfBirth" : 537222977091
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 45.85
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Wilbert Wilderman",
+    "cpf" : "325.925.804-19",
+    "address" : "1856 Rosenbaum Village, Lake Tomasland, MD 40503-7963",
+    "mobilePhone" : "(39)33166-8122",
+    "email" : "osvaldo.daniel@hotmail.com",
+    "patientId" : "520245854427156",
+    "dateOfBirth" : 763953580517
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 117.88
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Lawrence McCullough PhD",
+    "cpf" : "132.296.118-81",
+    "address" : "Suite 267 89541 Shields Forge, Averyshire, NM 16624-0295",
+    "mobilePhone" : "(58)24047-0952",
+    "email" : "ina.orn@gmail.com",
+    "patientId" : "442248881890447",
+    "dateOfBirth" : 37590894744
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 74.18
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Adah Rice Sr.",
+    "cpf" : "722.106.881-02",
+    "address" : "Apt. 958 860 Arnold Harbor, Lake Jonathonstad, WV 90064",
+    "mobilePhone" : "(62)98940-3030",
+    "email" : "stasia.kilback@gmail.com",
+    "patientId" : "517132649073277",
+    "dateOfBirth" : 948386187633
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 89.02
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Buck Mills",
+    "cpf" : "045.795.855-27",
+    "address" : "53162 Breitenberg Forest, Kleintown, AR 32250-7916",
+    "mobilePhone" : "(23)82659-4590",
+    "email" : "austin.lang@gmail.com",
+    "patientId" : "925621985076695",
+    "dateOfBirth" : 264335826388
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 74.18
+}, {
+  "doctor" : {
+    "fullName" : "Pablo Hilpert",
+    "cpf" : "690.789.982-17",
+    "address" : "Apt. 360 5320 Benito Street, South John, KY 20162",
+    "mobilePhone" : "(40)14218-2368",
+    "email" : "houston.emard@yahoo.com",
+    "specialty" : "Allergy and immunology",
+    "officeVisitFee" : 112.54
+  },
+  "patient" : {
+    "fullName" : "Grover Hansen",
+    "cpf" : "564.571.695-39",
+    "address" : "777 Walker Station, Lake Harlandstad, CO 20042",
+    "mobilePhone" : "(23)22031-1212",
+    "email" : "merrill.rogahn@yahoo.com",
+    "patientId" : "338526387388053",
+    "dateOfBirth" : -232330288790
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 45.02
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Nolan Gerhold",
+    "cpf" : "214.280.674-23",
+    "address" : "7572 Chong Locks, Carolfurt, CA 42512-0849",
+    "mobilePhone" : "(61)86976-2346",
+    "email" : "myron.gusikowski@yahoo.com",
+    "patientId" : "906816159212310",
+    "dateOfBirth" : -206134506142
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 59.34
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Libby Rath",
+    "cpf" : "054.221.821-48",
+    "address" : "73538 Hansen Drive, Brucestad, AR 09819-6688",
+    "mobilePhone" : "(39)49190-0034",
+    "email" : "emmanuel.hilll@yahoo.com",
+    "patientId" : "624631870252238",
+    "dateOfBirth" : 886653415007
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 330.14
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Nathalie Bradtke",
+    "cpf" : "666.879.967-47",
+    "address" : "Suite 676 29488 Bailey Mission, Connellymouth, TX 85353-7755",
+    "mobilePhone" : "(24)22724-6805",
+    "email" : "weston.kunde@yahoo.com",
+    "patientId" : "254328206294388",
+    "dateOfBirth" : -315895901342
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 117.88
+}, {
+  "doctor" : {
+    "fullName" : "Dr. Edythe Botsford",
+    "cpf" : "256.819.851-36",
+    "address" : "769 Upton Landing, Lake Courtney, DE 30166",
+    "mobilePhone" : "(66)19887-2991",
+    "email" : "manie.schiller@gmail.com",
+    "specialty" : "Obstetrics and gynecology",
+    "officeVisitFee" : 40.12
+  },
+  "patient" : {
+    "fullName" : "Tangela Wisoky",
+    "cpf" : "611.628.477-39",
+    "address" : "Suite 651 4823 Balistreri Ridge, West Reynaldo, CO 04071",
+    "mobilePhone" : "(03)56609-3285",
+    "email" : "cherrie.wyman@yahoo.com",
+    "patientId" : "585820565213769",
+    "dateOfBirth" : 341863445025
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 10.03
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Emmett Rogahn",
+    "cpf" : "948.479.253-55",
+    "address" : "Suite 729 43558 Porfirio Streets, Johnsfort, NV 96241-2684",
+    "mobilePhone" : "(99)95251-4742",
+    "email" : "herbert.jacobi@gmail.com",
+    "patientId" : "777433054389187",
+    "dateOfBirth" : 305645972671
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 282.91
+}, {
+  "doctor" : {
+    "fullName" : "Pablo Hilpert",
+    "cpf" : "690.789.982-17",
+    "address" : "Apt. 360 5320 Benito Street, South John, KY 20162",
+    "mobilePhone" : "(40)14218-2368",
+    "email" : "houston.emard@yahoo.com",
+    "specialty" : "Allergy and immunology",
+    "officeVisitFee" : 112.54
+  },
+  "patient" : {
+    "fullName" : "Jayne Wilderman II",
+    "cpf" : "881.472.841-12",
+    "address" : "Suite 029 4116 Ezekiel Branch, Reathafort, UT 07250",
+    "mobilePhone" : "(20)53514-4263",
+    "email" : "abdul.watsica@hotmail.com",
+    "patientId" : "895103045578204",
+    "dateOfBirth" : 474899939518
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 22.51
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Elnora Dach",
+    "cpf" : "346.874.628-63",
+    "address" : "Suite 972 550 Morar Crest, Jessberg, PA 27307",
+    "mobilePhone" : "(97)36503-0980",
+    "email" : "gaylord.koss@hotmail.com",
+    "patientId" : "120844564350075",
+    "dateOfBirth" : 50597490284
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 59.34
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Reinaldo Daugherty",
+    "cpf" : "294.470.808-62",
+    "address" : "Suite 840 870 Andres Corner, Bartellhaven, IA 78276",
+    "mobilePhone" : "(82)99932-1522",
+    "email" : "gerard.oberbrunner@gmail.com",
+    "patientId" : "507423368555922",
+    "dateOfBirth" : 494140884422
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 68.32
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Denny Rutherford",
+    "cpf" : "658.437.283-42",
+    "address" : "7876 Aufderhar Shoals, Kesslertown, CO 47920-1665",
+    "mobilePhone" : "(89)83015-4760",
+    "email" : "brendon.brakus@yahoo.com",
+    "patientId" : "674672270190716",
+    "dateOfBirth" : 404335083579
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 204.95
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Dante Bogan",
+    "cpf" : "125.856.978-93",
+    "address" : "979 Kunde Summit, Solangestad, WV 80109-4762",
+    "mobilePhone" : "(69)74387-3018",
+    "email" : "alonzo.prosacco@yahoo.com",
+    "patientId" : "827316044545282",
+    "dateOfBirth" : 188282426671
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 15.95
+}, {
+  "doctor" : {
+    "fullName" : "Rosa Kozey",
+    "cpf" : "261.370.330-78",
+    "address" : "Suite 094 5398 Danny Lights, New Myron, NM 13665-4997",
+    "mobilePhone" : "(71)07338-7080",
+    "email" : "meryl.daniel@yahoo.com",
+    "specialty" : "Physical medicine and rehabilitation",
+    "officeVisitFee" : 194.33
+  },
+  "patient" : {
+    "fullName" : "Mrs. Dimple Cronin",
+    "cpf" : "926.344.041-32",
+    "address" : "Suite 346 3716 Ellena Junctions, Lake Mindi, TN 38263",
+    "mobilePhone" : "(91)40078-8776",
+    "email" : "alvera.conroy@yahoo.com",
+    "patientId" : "487170516582817",
+    "dateOfBirth" : -76425522773
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 97.17
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Cleotilde Stiedemann",
+    "cpf" : "836.342.722-21",
+    "address" : "6515 Lyman Square, Stewartchester, RI 01744",
+    "mobilePhone" : "(89)88243-9670",
+    "email" : "ewa.pollich@yahoo.com",
+    "patientId" : "101780873481066",
+    "dateOfBirth" : 47149107527
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 42.7
+}, {
+  "doctor" : {
+    "fullName" : "Pablo Hilpert",
+    "cpf" : "690.789.982-17",
+    "address" : "Apt. 360 5320 Benito Street, South John, KY 20162",
+    "mobilePhone" : "(40)14218-2368",
+    "email" : "houston.emard@yahoo.com",
+    "specialty" : "Allergy and immunology",
+    "officeVisitFee" : 112.54
+  },
+  "patient" : {
+    "fullName" : "Anh Sporer",
+    "cpf" : "952.280.279-43",
+    "address" : "42822 Carol Drive, Sooview, TX 81729-7536",
+    "mobilePhone" : "(89)80670-8045",
+    "email" : "cindie.dickens@gmail.com",
+    "patientId" : "361307055045572",
+    "dateOfBirth" : 895729280658
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 135.05
+}, {
+  "doctor" : {
+    "fullName" : "Rudy Krajcik II",
+    "cpf" : "223.344.321-48",
+    "address" : "Suite 131 21930 Feest Streets, Kennethshire, SD 23373",
+    "mobilePhone" : "(24)30004-4216",
+    "email" : "raul.johnston@gmail.com",
+    "specialty" : "Pediatrics",
+    "officeVisitFee" : 171.84
+  },
+  "patient" : {
+    "fullName" : "Lupe Bins",
+    "cpf" : "953.427.789-36",
+    "address" : "36696 Chia Skyway, Lake Erik, UT 99232-1578",
+    "mobilePhone" : "(06)21030-7466",
+    "email" : "curt.baumbach@gmail.com",
+    "patientId" : "234419294705328",
+    "dateOfBirth" : 748728903893
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 206.21
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Mrs. Mac Schmitt",
+    "cpf" : "377.620.061-49",
+    "address" : "Apt. 880 028 Smitham Mills, Lowestad, MN 14768-2020",
+    "mobilePhone" : "(66)56395-6103",
+    "email" : "weldon.mohr@hotmail.com",
+    "patientId" : "347542719765060",
+    "dateOfBirth" : 837805051722
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 68.32
+}, {
+  "doctor" : {
+    "fullName" : "Verna Heller Sr.",
+    "cpf" : "498.172.570-18",
+    "address" : "Suite 013 45026 Tyrone Cliff, Breitenbergburgh, GA 16903",
+    "mobilePhone" : "(45)30966-9705",
+    "email" : "krystyna.olson@hotmail.com",
+    "specialty" : "Medical genetics",
+    "officeVisitFee" : 46.87
+  },
+  "patient" : {
+    "fullName" : "Nolan Gerhold",
+    "cpf" : "214.280.674-23",
+    "address" : "7572 Chong Locks, Carolfurt, CA 42512-0849",
+    "mobilePhone" : "(61)86976-2346",
+    "email" : "myron.gusikowski@yahoo.com",
+    "patientId" : "906816159212310",
+    "dateOfBirth" : -206134506142
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 56.24
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Annetta Padberg",
+    "cpf" : "670.898.105-42",
+    "address" : "Suite 296 9286 Kent Crest, Ruebenfurt, OH 04971",
+    "mobilePhone" : "(73)81539-9464",
+    "email" : "elisabeth.reinger@gmail.com",
+    "patientId" : "215771351641271",
+    "dateOfBirth" : 760250127402
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 204.95
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Denny Rutherford",
+    "cpf" : "658.437.283-42",
+    "address" : "7876 Aufderhar Shoals, Kesslertown, CO 47920-1665",
+    "mobilePhone" : "(89)83015-4760",
+    "email" : "brendon.brakus@yahoo.com",
+    "patientId" : "674672270190716",
+    "dateOfBirth" : 404335083579
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 91.71
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Long Koss",
+    "cpf" : "446.349.591-58",
+    "address" : "Suite 889 467 Lockman Ports, Taylorberg, NM 28734",
+    "mobilePhone" : "(40)22394-3104",
+    "email" : "damian.cassin@yahoo.com",
+    "specialty" : "Diagnostic radiology",
+    "officeVisitFee" : 163.37
+  },
+  "patient" : {
+    "fullName" : "Judy Aufderhar",
+    "cpf" : "537.498.141-10",
+    "address" : "Suite 895 591 Gaylord Trace, Vonshire, OH 91023-7151",
+    "mobilePhone" : "(79)06115-1188",
+    "email" : "odette.skiles@yahoo.com",
+    "patientId" : "385605733157845",
+    "dateOfBirth" : -314221806531
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 65.35
+}, {
+  "doctor" : {
+    "fullName" : "Dr. Edythe Botsford",
+    "cpf" : "256.819.851-36",
+    "address" : "769 Upton Landing, Lake Courtney, DE 30166",
+    "mobilePhone" : "(66)19887-2991",
+    "email" : "manie.schiller@gmail.com",
+    "specialty" : "Obstetrics and gynecology",
+    "officeVisitFee" : 40.12
+  },
+  "patient" : {
+    "fullName" : "Dewitt Walker",
+    "cpf" : "127.660.189-91",
+    "address" : "Suite 946 6417 Torphy Plain, North Gerardostad, DE 61090-9948",
+    "mobilePhone" : "(15)50043-1372",
+    "email" : "kandace.gusikowski@yahoo.com",
+    "patientId" : "870495235235781",
+    "dateOfBirth" : 188940678919
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 16.05
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Mrs. Bruce Dooley",
+    "cpf" : "409.933.818-98",
+    "address" : "7737 Quinn Wells, Mackville, ID 35682",
+    "mobilePhone" : "(00)40948-3246",
+    "email" : "mariano.beier@gmail.com",
+    "patientId" : "564514672755837",
+    "dateOfBirth" : 472151654383
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 91.71
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Nathalie Bradtke",
+    "cpf" : "666.879.967-47",
+    "address" : "Suite 676 29488 Bailey Mission, Connellymouth, TX 85353-7755",
+    "mobilePhone" : "(24)22724-6805",
+    "email" : "weston.kunde@yahoo.com",
+    "patientId" : "254328206294388",
+    "dateOfBirth" : -315895901342
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 141.46
+}, {
+  "doctor" : {
+    "fullName" : "Rudy Krajcik II",
+    "cpf" : "223.344.321-48",
+    "address" : "Suite 131 21930 Feest Streets, Kennethshire, SD 23373",
+    "mobilePhone" : "(24)30004-4216",
+    "email" : "raul.johnston@gmail.com",
+    "specialty" : "Pediatrics",
+    "officeVisitFee" : 171.84
+  },
+  "patient" : {
+    "fullName" : "Mrs. Bruce Dooley",
+    "cpf" : "409.933.818-98",
+    "address" : "7737 Quinn Wells, Mackville, ID 35682",
+    "mobilePhone" : "(00)40948-3246",
+    "email" : "mariano.beier@gmail.com",
+    "patientId" : "564514672755837",
+    "dateOfBirth" : 472151654383
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 34.37
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Kanesha Dicki",
+    "cpf" : "068.551.644-25",
+    "address" : "Apt. 372 976 Daniel Well, Wehnerberg, MO 59893-1379",
+    "mobilePhone" : "(74)08492-7453",
+    "email" : "federico.padberg@yahoo.com",
+    "patientId" : "620829325232755",
+    "dateOfBirth" : -139815751567
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 74.18
+}, {
+  "doctor" : {
+    "fullName" : "Pura Stracke",
+    "cpf" : "054.026.541-96",
+    "address" : "Apt. 240 116 Babara Mountain, Lake Bret, NV 23279-6814",
+    "mobilePhone" : "(11)16235-2261",
+    "email" : "rochelle.feeney@yahoo.com",
+    "specialty" : "Allergy and immunology",
+    "officeVisitFee" : 202.19
+  },
+  "patient" : {
+    "fullName" : "Ms. Rosia Kreiger",
+    "cpf" : "433.159.229-52",
+    "address" : "543 Erick Ridge, Breannatown, NJ 31286",
+    "mobilePhone" : "(93)07074-1480",
+    "email" : "christene.mccullough@yahoo.com",
+    "patientId" : "547189689203141",
+    "dateOfBirth" : -68989391651
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 242.63
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Long Koss",
+    "cpf" : "446.349.591-58",
+    "address" : "Suite 889 467 Lockman Ports, Taylorberg, NM 28734",
+    "mobilePhone" : "(40)22394-3104",
+    "email" : "damian.cassin@yahoo.com",
+    "specialty" : "Diagnostic radiology",
+    "officeVisitFee" : 163.37
+  },
+  "patient" : {
+    "fullName" : "Kanesha Dicki",
+    "cpf" : "068.551.644-25",
+    "address" : "Apt. 372 976 Daniel Well, Wehnerberg, MO 59893-1379",
+    "mobilePhone" : "(74)08492-7453",
+    "email" : "federico.padberg@yahoo.com",
+    "patientId" : "620829325232755",
+    "dateOfBirth" : -139815751567
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 196.04
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Jayne Wilderman II",
+    "cpf" : "881.472.841-12",
+    "address" : "Suite 029 4116 Ezekiel Branch, Reathafort, UT 07250",
+    "mobilePhone" : "(20)53514-4263",
+    "email" : "abdul.watsica@hotmail.com",
+    "patientId" : "895103045578204",
+    "dateOfBirth" : 474899939518
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 85.4
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Mohamed Daniel",
+    "cpf" : "368.494.137-98",
+    "address" : "6781 Rigoberto Forge, East Dorsey, TX 08024-1940",
+    "mobilePhone" : "(12)11018-8869",
+    "email" : "abby.casper@yahoo.com",
+    "patientId" : "620485646051268",
+    "dateOfBirth" : -354491998570
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 117.88
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Nathalie Bradtke",
+    "cpf" : "666.879.967-47",
+    "address" : "Suite 676 29488 Bailey Mission, Connellymouth, TX 85353-7755",
+    "mobilePhone" : "(24)22724-6805",
+    "email" : "weston.kunde@yahoo.com",
+    "patientId" : "254328206294388",
+    "dateOfBirth" : -315895901342
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 178.03
+}, {
+  "doctor" : {
+    "fullName" : "Verna Heller Sr.",
+    "cpf" : "498.172.570-18",
+    "address" : "Suite 013 45026 Tyrone Cliff, Breitenbergburgh, GA 16903",
+    "mobilePhone" : "(45)30966-9705",
+    "email" : "krystyna.olson@hotmail.com",
+    "specialty" : "Medical genetics",
+    "officeVisitFee" : 46.87
+  },
+  "patient" : {
+    "fullName" : "Gerald Hoppe",
+    "cpf" : "108.665.907-87",
+    "address" : "198 Mraz Road, East Ferminamouth, OK 49095-2002",
+    "mobilePhone" : "(46)09626-4543",
+    "email" : "kieth.feil@gmail.com",
+    "patientId" : "813943605473853",
+    "dateOfBirth" : 445803608528
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 56.24
+}, {
+  "doctor" : {
+    "fullName" : "Dr. Edythe Botsford",
+    "cpf" : "256.819.851-36",
+    "address" : "769 Upton Landing, Lake Courtney, DE 30166",
+    "mobilePhone" : "(66)19887-2991",
+    "email" : "manie.schiller@gmail.com",
+    "specialty" : "Obstetrics and gynecology",
+    "officeVisitFee" : 40.12
+  },
+  "patient" : {
+    "fullName" : "Kallie Bauch",
+    "cpf" : "350.401.268-21",
+    "address" : "Suite 218 2540 Stan Groves, North Brittaneymouth, TX 68148-7199",
+    "mobilePhone" : "(06)26440-8928",
+    "email" : "therese.howe@gmail.com",
+    "patientId" : "906976837751560",
+    "dateOfBirth" : 537222977091
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 48.14
+}, {
+  "doctor" : {
+    "fullName" : "Rudy Krajcik II",
+    "cpf" : "223.344.321-48",
+    "address" : "Suite 131 21930 Feest Streets, Kennethshire, SD 23373",
+    "mobilePhone" : "(24)30004-4216",
+    "email" : "raul.johnston@gmail.com",
+    "specialty" : "Pediatrics",
+    "officeVisitFee" : 171.84
+  },
+  "patient" : {
+    "fullName" : "Deidra Smitham I",
+    "cpf" : "137.291.085-20",
+    "address" : "6133 Grady Road, New Kirk, IN 55969-8304",
+    "mobilePhone" : "(16)10465-8485",
+    "email" : "susana.okeefe@yahoo.com",
+    "patientId" : "067235800148682",
+    "dateOfBirth" : -22770370487
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 68.74
+}, {
+  "doctor" : {
+    "fullName" : "Dr. Edythe Botsford",
+    "cpf" : "256.819.851-36",
+    "address" : "769 Upton Landing, Lake Courtney, DE 30166",
+    "mobilePhone" : "(66)19887-2991",
+    "email" : "manie.schiller@gmail.com",
+    "specialty" : "Obstetrics and gynecology",
+    "officeVisitFee" : 40.12
+  },
+  "patient" : {
+    "fullName" : "Michael Wehner",
+    "cpf" : "461.885.337-24",
+    "address" : "9655 Hackett Motorway, Port Katyville, MI 70340",
+    "mobilePhone" : "(56)32053-6193",
+    "email" : "dawn.waters@yahoo.com",
+    "patientId" : "106068275873541",
+    "dateOfBirth" : 72208623441
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 48.14
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Darell Ferry",
+    "cpf" : "983.452.035-94",
+    "address" : "27685 Lieselotte Freeway, West Ginger, NY 24408-1612",
+    "mobilePhone" : "(17)23260-0164",
+    "email" : "odis.walker@gmail.com",
+    "patientId" : "551431101644171",
+    "dateOfBirth" : 1017407334266
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 58.94
+}, {
+  "doctor" : {
+    "fullName" : "Alec Labadie",
+    "cpf" : "473.215.572-37",
+    "address" : "8904 Lucas Prairie, North Lorena, TN 89722-0619",
+    "mobilePhone" : "(01)85944-7217",
+    "email" : "jacqulyn.cronin@hotmail.com",
+    "specialty" : "Preventive medicine",
+    "officeVisitFee" : 104.4
+  },
+  "patient" : {
+    "fullName" : "Wilbert Wilderman",
+    "cpf" : "325.925.804-19",
+    "address" : "1856 Rosenbaum Village, Lake Tomasland, MD 40503-7963",
+    "mobilePhone" : "(39)33166-8122",
+    "email" : "osvaldo.daniel@hotmail.com",
+    "patientId" : "520245854427156",
+    "dateOfBirth" : 763953580517
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 62.64
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Billi Harvey",
+    "cpf" : "246.350.981-22",
+    "address" : "470 Sipes Green, Jefferyland, PA 20646-6288",
+    "mobilePhone" : "(50)18879-8197",
+    "email" : "helene.runolfsson@gmail.com",
+    "patientId" : "974144088773256",
+    "dateOfBirth" : 759853459384
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 94.3
+}, {
+  "doctor" : {
+    "fullName" : "Alec Labadie",
+    "cpf" : "473.215.572-37",
+    "address" : "8904 Lucas Prairie, North Lorena, TN 89722-0619",
+    "mobilePhone" : "(01)85944-7217",
+    "email" : "jacqulyn.cronin@hotmail.com",
+    "specialty" : "Preventive medicine",
+    "officeVisitFee" : 104.4
+  },
+  "patient" : {
+    "fullName" : "Yee Kirlin",
+    "cpf" : "442.904.953-38",
+    "address" : "Apt. 890 435 Jacobson Mall, Louveniaborough, OR 75786",
+    "mobilePhone" : "(34)05565-0868",
+    "email" : "larisa.reinger@yahoo.com",
+    "patientId" : "807404010540104",
+    "dateOfBirth" : 56654723273
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 52.2
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Earline Morar",
+    "cpf" : "558.987.439-34",
+    "address" : "Suite 212 4767 Jayson Stream, New Norbert, NM 19176",
+    "mobilePhone" : "(48)01547-2386",
+    "email" : "emery.ruecker@hotmail.com",
+    "patientId" : "292194205342189",
+    "dateOfBirth" : 971139140000
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 111.27
+}, {
+  "doctor" : {
+    "fullName" : "Buster Bernier",
+    "cpf" : "714.594.477-70",
+    "address" : "Suite 887 8071 Son Mountain, West Dewey, NY 31896-5759",
+    "mobilePhone" : "(75)82398-2988",
+    "email" : "elvin.quigley@yahoo.com",
+    "specialty" : "Pathology",
+    "officeVisitFee" : 288.23
+  },
+  "patient" : {
+    "fullName" : "Clifford Kemmer",
+    "cpf" : "377.808.897-51",
+    "address" : "5188 Hand Neck, Alysechester, OH 68441",
+    "mobilePhone" : "(87)93312-8993",
+    "email" : "cheyenne.predovic@gmail.com",
+    "patientId" : "611801803411350",
+    "dateOfBirth" : -210488889112
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 172.94
+}, {
+  "doctor" : {
+    "fullName" : "Dr. Edythe Botsford",
+    "cpf" : "256.819.851-36",
+    "address" : "769 Upton Landing, Lake Courtney, DE 30166",
+    "mobilePhone" : "(66)19887-2991",
+    "email" : "manie.schiller@gmail.com",
+    "specialty" : "Obstetrics and gynecology",
+    "officeVisitFee" : 40.12
+  },
+  "patient" : {
+    "fullName" : "Avery Fritsch",
+    "cpf" : "384.341.986-36",
+    "address" : "Apt. 791 9919 Milo Canyon, East Marshallberg, VA 23597",
+    "mobilePhone" : "(85)36961-6286",
+    "email" : "caroll.brown@yahoo.com",
+    "patientId" : "381136664277772",
+    "dateOfBirth" : 346918038646
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 20.06
+}, {
+  "doctor" : {
+    "fullName" : "Dr. Edythe Botsford",
+    "cpf" : "256.819.851-36",
+    "address" : "769 Upton Landing, Lake Courtney, DE 30166",
+    "mobilePhone" : "(66)19887-2991",
+    "email" : "manie.schiller@gmail.com",
+    "specialty" : "Obstetrics and gynecology",
+    "officeVisitFee" : 40.12
+  },
+  "patient" : {
+    "fullName" : "Jayne Wilderman II",
+    "cpf" : "881.472.841-12",
+    "address" : "Suite 029 4116 Ezekiel Branch, Reathafort, UT 07250",
+    "mobilePhone" : "(20)53514-4263",
+    "email" : "abdul.watsica@hotmail.com",
+    "patientId" : "895103045578204",
+    "dateOfBirth" : 474899939518
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 20.06
+}, {
+  "doctor" : {
+    "fullName" : "Rudy Krajcik II",
+    "cpf" : "223.344.321-48",
+    "address" : "Suite 131 21930 Feest Streets, Kennethshire, SD 23373",
+    "mobilePhone" : "(24)30004-4216",
+    "email" : "raul.johnston@gmail.com",
+    "specialty" : "Pediatrics",
+    "officeVisitFee" : 171.84
+  },
+  "patient" : {
+    "fullName" : "Danny Ratke",
+    "cpf" : "512.879.392-59",
+    "address" : "Suite 856 6129 Murazik Place, Port Dana, HI 98662",
+    "mobilePhone" : "(72)40144-1508",
+    "email" : "marceline.beer@yahoo.com",
+    "patientId" : "607517445768053",
+    "dateOfBirth" : 849016976827
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 68.74
+}, {
+  "doctor" : {
+    "fullName" : "Dr. Edythe Botsford",
+    "cpf" : "256.819.851-36",
+    "address" : "769 Upton Landing, Lake Courtney, DE 30166",
+    "mobilePhone" : "(66)19887-2991",
+    "email" : "manie.schiller@gmail.com",
+    "specialty" : "Obstetrics and gynecology",
+    "officeVisitFee" : 40.12
+  },
+  "patient" : {
+    "fullName" : "Oswaldo Morissette",
+    "cpf" : "385.929.910-81",
+    "address" : "7749 Tawny Loaf, Port Johnsonton, MS 68148-9394",
+    "mobilePhone" : "(17)66745-7268",
+    "email" : "edgardo.fisher@yahoo.com",
+    "patientId" : "378886104045527",
+    "dateOfBirth" : 709908291073
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 24.07
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Kanesha Dicki",
+    "cpf" : "068.551.644-25",
+    "address" : "Apt. 372 976 Daniel Well, Wehnerberg, MO 59893-1379",
+    "mobilePhone" : "(74)08492-7453",
+    "email" : "federico.padberg@yahoo.com",
+    "patientId" : "620829325232755",
+    "dateOfBirth" : -139815751567
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 176.82
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Melva Fahey",
+    "cpf" : "304.345.533-33",
+    "address" : "95458 Nada Trail, Sharonstad, KS 30860",
+    "mobilePhone" : "(90)41824-5156",
+    "email" : "allen.tremblay@hotmail.com",
+    "patientId" : "554437358711542",
+    "dateOfBirth" : 114733909921
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 73.36
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Dante Bogan",
+    "cpf" : "125.856.978-93",
+    "address" : "979 Kunde Summit, Solangestad, WV 80109-4762",
+    "mobilePhone" : "(69)74387-3018",
+    "email" : "alonzo.prosacco@yahoo.com",
+    "patientId" : "827316044545282",
+    "dateOfBirth" : 188282426671
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 110.05
+}, {
+  "doctor" : {
+    "fullName" : "Rosa Kozey",
+    "cpf" : "261.370.330-78",
+    "address" : "Suite 094 5398 Danny Lights, New Myron, NM 13665-4997",
+    "mobilePhone" : "(71)07338-7080",
+    "email" : "meryl.daniel@yahoo.com",
+    "specialty" : "Physical medicine and rehabilitation",
+    "officeVisitFee" : 194.33
+  },
+  "patient" : {
+    "fullName" : "Darell Ferry",
+    "cpf" : "983.452.035-94",
+    "address" : "27685 Lieselotte Freeway, West Ginger, NY 24408-1612",
+    "mobilePhone" : "(17)23260-0164",
+    "email" : "odis.walker@gmail.com",
+    "patientId" : "551431101644171",
+    "dateOfBirth" : 1017407334266
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 233.2
+}, {
+  "doctor" : {
+    "fullName" : "Alphonse Sporer",
+    "cpf" : "292.040.625-94",
+    "address" : "62931 McGlynn Ridges, Goldnerburgh, MT 38603",
+    "mobilePhone" : "(19)30741-9187",
+    "email" : "lou.howell@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 202.93
+  },
+  "patient" : {
+    "fullName" : "Theressa O'Hara",
+    "cpf" : "120.401.888-45",
+    "address" : "Suite 026 4623 Grant Drive, South Cesar, LA 46253",
+    "mobilePhone" : "(90)83377-5355",
+    "email" : "aurea.jaskolski@yahoo.com",
+    "patientId" : "218719776377361",
+    "dateOfBirth" : 77835719596
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 243.52
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Santo Bednar",
+    "cpf" : "477.213.591-02",
+    "address" : "Apt. 915 189 Milagro Springs, Edgarborough, NM 47111",
+    "mobilePhone" : "(39)52503-8869",
+    "email" : "sadie.witting@yahoo.com",
+    "patientId" : "471016366368782",
+    "dateOfBirth" : 158868325937
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 47.84
+}, {
+  "doctor" : {
+    "fullName" : "Buster Bernier",
+    "cpf" : "714.594.477-70",
+    "address" : "Suite 887 8071 Son Mountain, West Dewey, NY 31896-5759",
+    "mobilePhone" : "(75)82398-2988",
+    "email" : "elvin.quigley@yahoo.com",
+    "specialty" : "Pathology",
+    "officeVisitFee" : 288.23
+  },
+  "patient" : {
+    "fullName" : "Billi Harvey",
+    "cpf" : "246.350.981-22",
+    "address" : "470 Sipes Green, Jefferyland, PA 20646-6288",
+    "mobilePhone" : "(50)18879-8197",
+    "email" : "helene.runolfsson@gmail.com",
+    "patientId" : "974144088773256",
+    "dateOfBirth" : 759853459384
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 72.06
+}, {
+  "doctor" : {
+    "fullName" : "Alec Labadie",
+    "cpf" : "473.215.572-37",
+    "address" : "8904 Lucas Prairie, North Lorena, TN 89722-0619",
+    "mobilePhone" : "(01)85944-7217",
+    "email" : "jacqulyn.cronin@hotmail.com",
+    "specialty" : "Preventive medicine",
+    "officeVisitFee" : 104.4
+  },
+  "patient" : {
+    "fullName" : "Dante Bogan",
+    "cpf" : "125.856.978-93",
+    "address" : "979 Kunde Summit, Solangestad, WV 80109-4762",
+    "mobilePhone" : "(69)74387-3018",
+    "email" : "alonzo.prosacco@yahoo.com",
+    "patientId" : "827316044545282",
+    "dateOfBirth" : 188282426671
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 26.1
+}, {
+  "doctor" : {
+    "fullName" : "Pura Stracke",
+    "cpf" : "054.026.541-96",
+    "address" : "Apt. 240 116 Babara Mountain, Lake Bret, NV 23279-6814",
+    "mobilePhone" : "(11)16235-2261",
+    "email" : "rochelle.feeney@yahoo.com",
+    "specialty" : "Allergy and immunology",
+    "officeVisitFee" : 202.19
+  },
+  "patient" : {
+    "fullName" : "Billi Harvey",
+    "cpf" : "246.350.981-22",
+    "address" : "470 Sipes Green, Jefferyland, PA 20646-6288",
+    "mobilePhone" : "(50)18879-8197",
+    "email" : "helene.runolfsson@gmail.com",
+    "patientId" : "974144088773256",
+    "dateOfBirth" : 759853459384
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 121.31
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Grover Hansen",
+    "cpf" : "564.571.695-39",
+    "address" : "777 Walker Station, Lake Harlandstad, CO 20042",
+    "mobilePhone" : "(23)22031-1212",
+    "email" : "merrill.rogahn@yahoo.com",
+    "patientId" : "338526387388053",
+    "dateOfBirth" : -232330288790
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 45.85
+}, {
+  "doctor" : {
+    "fullName" : "Dr. Edythe Botsford",
+    "cpf" : "256.819.851-36",
+    "address" : "769 Upton Landing, Lake Courtney, DE 30166",
+    "mobilePhone" : "(66)19887-2991",
+    "email" : "manie.schiller@gmail.com",
+    "specialty" : "Obstetrics and gynecology",
+    "officeVisitFee" : 40.12
+  },
+  "patient" : {
+    "fullName" : "Warren Langworth",
+    "cpf" : "572.821.708-70",
+    "address" : "988 Ruecker Overpass, South Cecilia, VA 31430",
+    "mobilePhone" : "(44)34351-9587",
+    "email" : "bridget.heathcote@yahoo.com",
+    "patientId" : "753800515790487",
+    "dateOfBirth" : 871729075665
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 48.14
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Oswaldo Morissette",
+    "cpf" : "385.929.910-81",
+    "address" : "7749 Tawny Loaf, Port Johnsonton, MS 68148-9394",
+    "mobilePhone" : "(17)66745-7268",
+    "email" : "edgardo.fisher@yahoo.com",
+    "patientId" : "378886104045527",
+    "dateOfBirth" : 709908291073
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 19.94
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Gerald Hoppe",
+    "cpf" : "108.665.907-87",
+    "address" : "198 Mraz Road, East Ferminamouth, OK 49095-2002",
+    "mobilePhone" : "(46)09626-4543",
+    "email" : "kieth.feil@gmail.com",
+    "patientId" : "813943605473853",
+    "dateOfBirth" : 445803608528
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 74.18
+}, {
+  "doctor" : {
+    "fullName" : "Perry Gleichner",
+    "cpf" : "135.225.038-86",
+    "address" : "Suite 360 609 Benton Squares, East Yajairatown, WA 97722",
+    "mobilePhone" : "(41)87324-0502",
+    "email" : "danial.beahan@hotmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 170.79
+  },
+  "patient" : {
+    "fullName" : "Mrs. Mac Schmitt",
+    "cpf" : "377.620.061-49",
+    "address" : "Apt. 880 028 Smitham Mills, Lowestad, MN 14768-2020",
+    "mobilePhone" : "(66)56395-6103",
+    "email" : "weldon.mohr@hotmail.com",
+    "patientId" : "347542719765060",
+    "dateOfBirth" : 837805051722
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 102.47
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Adah Rice Sr.",
+    "cpf" : "722.106.881-02",
+    "address" : "Apt. 958 860 Arnold Harbor, Lake Jonathonstad, WV 90064",
+    "mobilePhone" : "(62)98940-3030",
+    "email" : "stasia.kilback@gmail.com",
+    "patientId" : "517132649073277",
+    "dateOfBirth" : 948386187633
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 9.97
+}, {
+  "doctor" : {
+    "fullName" : "Buster Bernier",
+    "cpf" : "714.594.477-70",
+    "address" : "Suite 887 8071 Son Mountain, West Dewey, NY 31896-5759",
+    "mobilePhone" : "(75)82398-2988",
+    "email" : "elvin.quigley@yahoo.com",
+    "specialty" : "Pathology",
+    "officeVisitFee" : 288.23
+  },
+  "patient" : {
+    "fullName" : "Darcel Harber",
+    "cpf" : "479.489.408-93",
+    "address" : "Suite 749 2442 Casey Islands, Port Derick, NM 07573",
+    "mobilePhone" : "(94)76638-1500",
+    "email" : "larue.sanford@gmail.com",
+    "patientId" : "808007010953735",
+    "dateOfBirth" : 66321635155
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 115.29
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Long Koss",
+    "cpf" : "446.349.591-58",
+    "address" : "Suite 889 467 Lockman Ports, Taylorberg, NM 28734",
+    "mobilePhone" : "(40)22394-3104",
+    "email" : "damian.cassin@yahoo.com",
+    "specialty" : "Diagnostic radiology",
+    "officeVisitFee" : 163.37
+  },
+  "patient" : {
+    "fullName" : "Buck Mills",
+    "cpf" : "045.795.855-27",
+    "address" : "53162 Breitenberg Forest, Kleintown, AR 32250-7916",
+    "mobilePhone" : "(23)82659-4590",
+    "email" : "austin.lang@gmail.com",
+    "patientId" : "925621985076695",
+    "dateOfBirth" : 264335826388
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 40.84
+}, {
+  "doctor" : {
+    "fullName" : "Alphonse Sporer",
+    "cpf" : "292.040.625-94",
+    "address" : "62931 McGlynn Ridges, Goldnerburgh, MT 38603",
+    "mobilePhone" : "(19)30741-9187",
+    "email" : "lou.howell@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 202.93
+  },
+  "patient" : {
+    "fullName" : "Brady Beer",
+    "cpf" : "245.668.672-56",
+    "address" : "Suite 752 48936 McLaughlin Island, Port Billy, NV 49339-7045",
+    "mobilePhone" : "(89)33311-9113",
+    "email" : "normand.casper@yahoo.com",
+    "patientId" : "435784320657384",
+    "dateOfBirth" : 339173901361
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 365.27
+}, {
+  "doctor" : {
+    "fullName" : "Reed Bosco",
+    "cpf" : "618.234.388-96",
+    "address" : "0042 Terrell Course, Isaacchester, SD 28961",
+    "mobilePhone" : "(87)10427-5583",
+    "email" : "luana.wintheiser@hotmail.com",
+    "specialty" : "Internal medicine",
+    "officeVisitFee" : 235.76
+  },
+  "patient" : {
+    "fullName" : "Isiah Crona",
+    "cpf" : "353.229.429-30",
+    "address" : "4467 Eldon Points, Wymanfort, TX 73939-4020",
+    "mobilePhone" : "(89)10638-0910",
+    "email" : "sidney.hagenes@hotmail.com",
+    "patientId" : "222409291704030",
+    "dateOfBirth" : 230813708369
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 176.82
+}, {
+  "doctor" : {
+    "fullName" : "Pura Stracke",
+    "cpf" : "054.026.541-96",
+    "address" : "Apt. 240 116 Babara Mountain, Lake Bret, NV 23279-6814",
+    "mobilePhone" : "(11)16235-2261",
+    "email" : "rochelle.feeney@yahoo.com",
+    "specialty" : "Allergy and immunology",
+    "officeVisitFee" : 202.19
+  },
+  "patient" : {
+    "fullName" : "Quinn Spinka IV",
+    "cpf" : "285.032.153-36",
+    "address" : "Suite 499 039 Dickens Points, North Lovellatown, NM 01495-1764",
+    "mobilePhone" : "(19)35952-1868",
+    "email" : "christin.kassulke@yahoo.com",
+    "patientId" : "666983082924663",
+    "dateOfBirth" : 564666593304
+  },
+  "hours" : 1,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 121.31
+}, {
+  "doctor" : {
+    "fullName" : "Alec Labadie",
+    "cpf" : "473.215.572-37",
+    "address" : "8904 Lucas Prairie, North Lorena, TN 89722-0619",
+    "mobilePhone" : "(01)85944-7217",
+    "email" : "jacqulyn.cronin@hotmail.com",
+    "specialty" : "Preventive medicine",
+    "officeVisitFee" : 104.4
+  },
+  "patient" : {
+    "fullName" : "Nicolas Langworth",
+    "cpf" : "828.793.427-03",
+    "address" : "97130 Raul Locks, New Gertha, KY 99737",
+    "mobilePhone" : "(77)64684-0066",
+    "email" : "becky.rempel@hotmail.com",
+    "patientId" : "861192734735643",
+    "dateOfBirth" : 376579781592
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 125.28
+}, {
+  "doctor" : {
+    "fullName" : "Pura Stracke",
+    "cpf" : "054.026.541-96",
+    "address" : "Apt. 240 116 Babara Mountain, Lake Bret, NV 23279-6814",
+    "mobilePhone" : "(11)16235-2261",
+    "email" : "rochelle.feeney@yahoo.com",
+    "specialty" : "Allergy and immunology",
+    "officeVisitFee" : 202.19
+  },
+  "patient" : {
+    "fullName" : "Yee Kirlin",
+    "cpf" : "442.904.953-38",
+    "address" : "Apt. 890 435 Jacobson Mall, Louveniaborough, OR 75786",
+    "mobilePhone" : "(34)05565-0868",
+    "email" : "larisa.reinger@yahoo.com",
+    "patientId" : "807404010540104",
+    "dateOfBirth" : 56654723273
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 151.64
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Avery Fritsch",
+    "cpf" : "384.341.986-36",
+    "address" : "Apt. 791 9919 Milo Canyon, East Marshallberg, VA 23597",
+    "mobilePhone" : "(85)36961-6286",
+    "email" : "caroll.brown@yahoo.com",
+    "patientId" : "381136664277772",
+    "dateOfBirth" : 346918038646
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 111.27
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Long Koss",
+    "cpf" : "446.349.591-58",
+    "address" : "Suite 889 467 Lockman Ports, Taylorberg, NM 28734",
+    "mobilePhone" : "(40)22394-3104",
+    "email" : "damian.cassin@yahoo.com",
+    "specialty" : "Diagnostic radiology",
+    "officeVisitFee" : 163.37
+  },
+  "patient" : {
+    "fullName" : "Cleotilde Stiedemann",
+    "cpf" : "836.342.722-21",
+    "address" : "6515 Lyman Square, Stewartchester, RI 01744",
+    "mobilePhone" : "(89)88243-9670",
+    "email" : "ewa.pollich@yahoo.com",
+    "patientId" : "101780873481066",
+    "dateOfBirth" : 47149107527
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 65.35
+}, {
+  "doctor" : {
+    "fullName" : "Lloyd Bode",
+    "cpf" : "689.495.313-54",
+    "address" : "4878 Skiles Mills, Lindberg, TN 59197-2792",
+    "mobilePhone" : "(64)14409-6543",
+    "email" : "moises.steuber@yahoo.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 183.41
+  },
+  "patient" : {
+    "fullName" : "Emmett Rogahn",
+    "cpf" : "948.479.253-55",
+    "address" : "Suite 729 43558 Porfirio Streets, Johnsfort, NV 96241-2684",
+    "mobilePhone" : "(99)95251-4742",
+    "email" : "herbert.jacobi@gmail.com",
+    "patientId" : "777433054389187",
+    "dateOfBirth" : 305645972671
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 91.71
+}, {
+  "doctor" : {
+    "fullName" : "Damon Crist",
+    "cpf" : "873.837.766-97",
+    "address" : "2430 Kunze Pine, Port Richieside, MO 88434",
+    "mobilePhone" : "(22)88513-1936",
+    "email" : "harlan.runte@hotmail.com",
+    "specialty" : "Radiation oncology",
+    "officeVisitFee" : 148.36
+  },
+  "patient" : {
+    "fullName" : "Mr. Wiley Waelchi",
+    "cpf" : "582.915.421-18",
+    "address" : "466 Somer Lights, Kihnfurt, AZ 11859-3724",
+    "mobilePhone" : "(37)55114-3535",
+    "email" : "season.haley@yahoo.com",
+    "patientId" : "820913784944070",
+    "dateOfBirth" : 262618618379
+  },
+  "hours" : 2,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 74.18
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Gail Bergnaum",
+    "cpf" : "296.385.899-88",
+    "address" : "961 Alphonso Plain, East Cortez, SD 23176-6373",
+    "mobilePhone" : "(77)49126-5942",
+    "email" : "keneth.hessel@gmail.com",
+    "specialty" : "Surgery",
+    "officeVisitFee" : 39.87
+  },
+  "patient" : {
+    "fullName" : "Deidra Smitham I",
+    "cpf" : "137.291.085-20",
+    "address" : "6133 Grady Road, New Kirk, IN 55969-8304",
+    "mobilePhone" : "(16)10465-8485",
+    "email" : "susana.okeefe@yahoo.com",
+    "patientId" : "067235800148682",
+    "dateOfBirth" : -22770370487
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.75,
+    "regulatorCode" : "79035521",
+    "name" : "VIA CHRISTI HOSPITALS WICHITA INC"
+  },
+  "bill" : 29.9
+}, {
+  "doctor" : {
+    "fullName" : "Mrs. Long Koss",
+    "cpf" : "446.349.591-58",
+    "address" : "Suite 889 467 Lockman Ports, Taylorberg, NM 28734",
+    "mobilePhone" : "(40)22394-3104",
+    "email" : "damian.cassin@yahoo.com",
+    "specialty" : "Diagnostic radiology",
+    "officeVisitFee" : 163.37
+  },
+  "patient" : {
+    "fullName" : "Mr. Isabella Barrows",
+    "cpf" : "277.789.204-34",
+    "address" : "01416 Angel Via, Sipesside, WI 70513",
+    "mobilePhone" : "(40)20117-6270",
+    "email" : "blaine.schimmel@gmail.com",
+    "patientId" : "755127731081237",
+    "dateOfBirth" : -80568841743
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.4,
+    "regulatorCode" : "11876960",
+    "name" : "FRANKLIN FOUNDATION HOSPITAL"
+  },
+  "bill" : 294.07
+}, {
+  "doctor" : {
+    "fullName" : "Rudy Krajcik II",
+    "cpf" : "223.344.321-48",
+    "address" : "Suite 131 21930 Feest Streets, Kennethshire, SD 23373",
+    "mobilePhone" : "(24)30004-4216",
+    "email" : "raul.johnston@gmail.com",
+    "specialty" : "Pediatrics",
+    "officeVisitFee" : 171.84
+  },
+  "patient" : {
+    "fullName" : "Ms. Aileen Shanahan",
+    "cpf" : "847.591.297-50",
+    "address" : "217 Brekke Center, Smithamtown, WY 07403-2083",
+    "mobilePhone" : "(00)48274-5514",
+    "email" : "jimmie.paucek@yahoo.com",
+    "patientId" : "110252925220863",
+    "dateOfBirth" : -117922028976
+  },
+  "hours" : 3,
+  "healthCarePlan" : {
+    "refundPercent" : 0.8,
+    "regulatorCode" : "32997330",
+    "name" : "BALTIMORE VA MEDICAL CENTER"
+  },
+  "bill" : 103.1
+} ]

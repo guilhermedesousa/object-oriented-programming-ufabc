@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="10.3">
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula06-classes-ii-exercises-guilhermedesousa/src/test/java/HugePositiveIntegerTest.java">
+<error line="34" severity="warning" message="Line is longer than 100 characters (found 102)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+</checkstyle>

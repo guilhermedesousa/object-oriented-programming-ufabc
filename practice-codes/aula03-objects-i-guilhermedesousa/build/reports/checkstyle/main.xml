@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula03-objects-i-guilhermedesousa/src/main/java/App.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula03-objects-i-guilhermedesousa/src/main/java/IsbnChecker.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula03-objects-i-guilhermedesousa/src/main/java/IsbnGenerator.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula03-objects-i-guilhermedesousa/src/main/java/IsbnUtils.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula03-objects-i-guilhermedesousa/src/main/java/LetterHistogram.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula03-objects-i-guilhermedesousa/src/main/java/ReverseStrings.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula03-objects-i-guilhermedesousa/src/main/java/SafePasswordChecker.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/aula03-objects-i-guilhermedesousa/src/main/java/SafePasswordGenerator.java">
+</file>
+</checkstyle>
