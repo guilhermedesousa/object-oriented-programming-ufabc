@@ -1,3 +1,5 @@
+package academic;
+
 public class AcademicHierarchyTest {
 
     public static String showAffiliation(AcademicMember m) {
@@ -13,7 +15,7 @@ public class AcademicHierarchyTest {
     public static void main(String[] args) {
         AcademicMember a1;
 
-        a1 = new Student("Joao", "Cardoso", "123", "bcc");
+        a1 = new Student("Joao", "Cardoso", "123", "bcc", 39);
 
         System.out.println(a1);
 

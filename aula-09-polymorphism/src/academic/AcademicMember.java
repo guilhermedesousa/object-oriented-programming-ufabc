@@ -1,4 +1,6 @@
-public class AcademicMember {
+package academic;
+
+public abstract class AcademicMember {
     private String firstName;
     private String lastName;
 

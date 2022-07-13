@@ -1,3 +1,5 @@
+package academic;
+
 public class Professor extends AcademicMember {
     private String siape;
     private String department;
