@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.42">
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/ArraysUtil.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/GenericDeque.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/GenericLinkedList.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/GenericQueue.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/GenericStack.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/ListEmptyException.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/Queue.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/QueueEmptyException.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/QueueFullException.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/Stack.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/StackEmptyException.java">
+</file>
+<file name="/home/guilhermedesousa/Documents/UFABC/2022/Quadrimestres/9º quadrimestre/Programação Orientada a Objetos/activities/atv03-exceptions-generics-guilhermedesousa/src/main/java/StackFullException.java">
+</file>
+</checkstyle>

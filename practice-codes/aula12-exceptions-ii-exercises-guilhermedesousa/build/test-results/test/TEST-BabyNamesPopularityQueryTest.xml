@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BabyNamesPopularityQueryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-08-04T14:50:17" hostname="fedora" time="7.833">
+  <properties/>
+  <testcase name="testGetCount()" classname="BabyNamesPopularityQueryTest" time="2.866"/>
+  <testcase name="testGetTotal()" classname="BabyNamesPopularityQueryTest" time="0.099"/>
+  <testcase name="testGetName()" classname="BabyNamesPopularityQueryTest" time="2.425"/>
+  <testcase name="testGetRanking()" classname="BabyNamesPopularityQueryTest" time="2.44"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

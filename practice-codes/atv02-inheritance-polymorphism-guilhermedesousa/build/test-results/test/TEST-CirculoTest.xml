@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CirculoTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-07-26T00:31:40" hostname="fedora" time="0.217">
+  <properties/>
+  <testcase name="testArea()" classname="CirculoTest" time="0.084"/>
+  <testcase name="testRaio()" classname="CirculoTest" time="0.05"/>
+  <testcase name="testLargura()" classname="CirculoTest" time="0.03"/>
+  <testcase name="testAltura()" classname="CirculoTest" time="0.017"/>
+  <testcase name="testCircunferencia()" classname="CirculoTest" time="0.017"/>
+  <testcase name="testPerimetro()" classname="CirculoTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

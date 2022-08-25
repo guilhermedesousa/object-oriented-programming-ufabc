@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApiTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-07-26T00:31:40" hostname="fedora" time="0.024">
+  <properties/>
+  <testcase name="testEllipse()" classname="ApiTest" time="0.014"/>
+  <testcase name="testRetangulo()" classname="ApiTest" time="0.001"/>
+  <testcase name="testQuadrilatero()" classname="ApiTest" time="0.0"/>
+  <testcase name="testTriangulo()" classname="ApiTest" time="0.0"/>
+  <testcase name="testFormaGeometrica()" classname="ApiTest" time="0.002"/>
+  <testcase name="testParalelogramo()" classname="ApiTest" time="0.001"/>
+  <testcase name="testCircle()" classname="ApiTest" time="0.0"/>
+  <testcase name="testPoligono()" classname="ApiTest" time="0.0"/>
+  <testcase name="testSegmentoReta()" classname="ApiTest" time="0.0"/>
+  <testcase name="testSemiCirculo()" classname="ApiTest" time="0.001"/>
+  <testcase name="testTrapezio()" classname="ApiTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

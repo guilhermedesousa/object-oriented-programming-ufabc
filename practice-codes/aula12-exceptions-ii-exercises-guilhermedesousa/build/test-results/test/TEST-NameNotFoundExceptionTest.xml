@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NameNotFoundExceptionTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-08-04T14:50:25" hostname="fedora" time="0.139">
+  <properties/>
+  <testcase name="doesNotThrowAtGetCount()" classname="NameNotFoundExceptionTest" time="0.023"/>
+  <testcase name="throwsAtGetRanking()" classname="NameNotFoundExceptionTest" time="0.051"/>
+  <testcase name="throwsAtGetCount()" classname="NameNotFoundExceptionTest" time="0.033"/>
+  <testcase name="doesNotThrowAtGetRanking()" classname="NameNotFoundExceptionTest" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

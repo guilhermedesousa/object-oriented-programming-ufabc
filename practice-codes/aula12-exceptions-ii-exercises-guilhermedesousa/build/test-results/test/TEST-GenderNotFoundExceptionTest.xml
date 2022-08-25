@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GenderNotFoundExceptionTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-08-04T14:50:24" hostname="fedora" time="0.051">
+  <properties/>
+  <testcase name="doesNotThrowAtGetName()" classname="GenderNotFoundExceptionTest" time="0.002"/>
+  <testcase name="doesNotThrowAtGetCount()" classname="GenderNotFoundExceptionTest" time="0.002"/>
+  <testcase name="doesNotThrowAtGetTotal()" classname="GenderNotFoundExceptionTest" time="0.02"/>
+  <testcase name="throwsAtGetRanking()" classname="GenderNotFoundExceptionTest" time="0.001"/>
+  <testcase name="throwsAtGetCount()" classname="GenderNotFoundExceptionTest" time="0.002"/>
+  <testcase name="throwsAtGetTotal()" classname="GenderNotFoundExceptionTest" time="0.008"/>
+  <testcase name="throwsAtGetName()" classname="GenderNotFoundExceptionTest" time="0.008"/>
+  <testcase name="doesNotThrowAtGetRanking()" classname="GenderNotFoundExceptionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

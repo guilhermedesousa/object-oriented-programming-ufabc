@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ElipseTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-07-26T00:31:41" hostname="fedora" time="0.053">
+  <properties/>
+  <testcase name="testArea()" classname="ElipseTest" time="0.018"/>
+  <testcase name="testLargura()" classname="ElipseTest" time="0.009"/>
+  <testcase name="testSemiEixos()" classname="ElipseTest" time="0.005"/>
+  <testcase name="testAltura()" classname="ElipseTest" time="0.006"/>
+  <testcase name="testCircunferencia()" classname="ElipseTest" time="0.005"/>
+  <testcase name="testPerimetro()" classname="ElipseTest" time="0.005"/>
+  <testcase name="testEixoNegativo()" classname="ElipseTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

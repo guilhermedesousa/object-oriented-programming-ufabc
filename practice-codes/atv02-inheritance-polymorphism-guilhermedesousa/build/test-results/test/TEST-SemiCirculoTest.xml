@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SemiCirculoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-26T00:31:41" hostname="fedora" time="0.017">
+  <properties/>
+  <testcase name="testArea()" classname="SemiCirculoTest" time="0.003"/>
+  <testcase name="testRaio()" classname="SemiCirculoTest" time="0.006"/>
+  <testcase name="testLargura()" classname="SemiCirculoTest" time="0.002"/>
+  <testcase name="testAltura()" classname="SemiCirculoTest" time="0.002"/>
+  <testcase name="testPerimetro()" classname="SemiCirculoTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MapaTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2022-08-11T14:48:37" hostname="fedora" time="0.461">
+  <properties/>
+  <testcase name="testSubstituir()" classname="MapaTest" time="0.037"/>
+  <testcase name="testExceptionOnRecuperar()" classname="MapaTest" time="0.006"/>
+  <testcase name="testContemChave()" classname="MapaTest" time="0.006"/>
+  <testcase name="testContemValor()" classname="MapaTest" time="0.003"/>
+  <testcase name="testValores()" classname="MapaTest" time="0.002"/>
+  <testcase name="testExceptionOnSubstituir()" classname="MapaTest" time="0.006"/>
+  <testcase name="testRemover()" classname="MapaTest" time="0.003"/>
+  <testcase name="testExceptionHierarchy()" classname="MapaTest" time="0.001"/>
+  <testcase name="testExceptionOnRemover()" classname="MapaTest" time="0.002"/>
+  <testcase name="testChaves()" classname="MapaTest" time="0.001"/>
+  <testcase name="testInserir()" classname="MapaTest" time="0.001"/>
+  <testcase name="testRecuperar()" classname="MapaTest" time="0.001"/>
+  <testcase name="testExceptionOnInserir()" classname="MapaTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ParTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-11T14:48:37" hostname="fedora" time="0.039">
+  <properties/>
+  <testcase name="testGenerics()" classname="ParTest" time="0.002"/>
+  <testcase name="testIgualdade()" classname="ParTest" time="0.01"/>
+  <testcase name="testGetter()" classname="ParTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
