@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PalindromeChecker",
+            "request": "launch",
+            "mainClass": "PalindromeChecker",
+            "projectName": "aula-03-objects_555fa733"
+        },
+        {
+            "type": "java",
+            "name": "StaticVsInstanceMethods",
+            "request": "launch",
+            "mainClass": "StaticVsInstanceMethods",
+            "projectName": "aula-03-objects_555fa733"
+        },
+        {
+            "type": "java",
+            "name": "HelloString",
+            "request": "launch",
+            "mainClass": "HelloString",
+            "projectName": "aula-03-objects_555fa733"
+        },
+        {
+            "type": "java",
             "name": "Launch HelloString",
             "request": "launch",
             "mainClass": "HelloString",

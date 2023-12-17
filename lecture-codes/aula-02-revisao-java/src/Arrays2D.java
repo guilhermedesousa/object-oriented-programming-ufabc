@@ -39,7 +39,7 @@ public class Arrays2D {
 
         System.out.println();
 
-        // finf the maximum
+        // find the maximum
         int max = v[0][0];
 
         for (int i = 0; i < v.length; i++) {

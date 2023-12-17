@@ -5,7 +5,7 @@ public class Arrays {
 
         // memory allocation
         a = new double[10];
-
+        
         for (int i = 0; i < a.length; i++) {
             a[i] = i + i / 10.0;
         }
